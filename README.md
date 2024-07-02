@@ -3,7 +3,7 @@
 ## Usages
 
 ```
-import { WhatsappOTP } from 'useWhatsappOTP';
+import { WhatsappOTP } from 'whatsappopt';
 
 const otpService = new WhatsappOTP({
   whatsappApiUrl: 'https://api.your-whatsapp-provider.com/v1/messages',
