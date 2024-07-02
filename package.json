@@ -1,0 +1,31 @@
+{
+  "name": "whatsappotp",
+  "version": "1.0.0",
+  "description": "This Package is made for leveraging whatsapp OTP sending method.",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PalashCoder/whatsappotp.git"
+  },
+  "keywords": [
+    "Whatsapp",
+    "OTP",
+    "microservice"
+  ],
+  "author": "Palash Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PalashCoder/whatsappotp/issues"
+  },
+  "homepage": "https://github.com/PalashCoder/whatsappotp#readme",
+  "dependencies": {
+    "@types/node": "^20.14.9",
+    "axios": "^1.7.2",
+    "node-cache": "^5.1.2",
+    "typescript": "^5.5.3"
+  }
+}
