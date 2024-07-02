@@ -1,6 +1,6 @@
 {
   "name": "whatsappotp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This Package is made for leveraging whatsapp OTP sending method.",
   "main": "server.ts",
   "scripts": {
@@ -17,7 +17,7 @@
     "microservice"
   ],
   "author": "Palash Das",
-  "license": "MIT",
+  "license": "CC0 1.0 Universal",
   "bugs": {
     "url": "https://github.com/PalashCoder/whatsappotp/issues"
   },
