@@ -2,7 +2,7 @@
   "name": "whatsappotp",
   "version": "1.0.1",
   "description": "This Package is made for leveraging whatsapp OTP sending method.",
-  "main": "server.ts",
+  "main": "src/server.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/server.ts"
