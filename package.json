@@ -1,6 +1,6 @@
 {
   "name": "whatsappotp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This Package is made for leveraging whatsapp OTP sending method.",
   "main": "src/server.ts",
   "scripts": {
